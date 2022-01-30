@@ -25,3 +25,5 @@
 ![PyBer_fare_summary](https://github.com/juanjdeharo/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 > Based on the multiple line graph, I find no identifiable pattern other than perhaps fluctuating fares around the times of Spring Break. Other than that the only inference I can make is that urban cities have much more total weekly fares than rural cities.
 
+## Summary
+> It would appear that total fares and rides vary proportionally with the amount of drivers per city type. If we could assume that there is a demand in rural areas then increasing the amount of drivers in rural areas would increase the total fare, dicreasing disparities. Perhaps suggesting for/reallocating urban and suburban drivers to rural cities could decrease disparieies. Also it would seem that both urban and suburban fares are lower in the winter while rural stay relatively the same, which means we could suggest/reallocate drivers from urban and suburban cities to rural cities on those dates. Or promote to hire more drivers in rural areas in the winter.
